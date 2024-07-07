@@ -1,5 +1,5 @@
+![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/4cc47db9-c141-4031-b6dd-1885263c2ce9)
 
-#![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/c4fc7ad9-855c-43ac-8334-bf1bc6e1e7e5)
  **Takım İsmi**
 
 Time Guards
@@ -56,10 +56,14 @@ Cosmic Rush
 oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bir şekilde belirtilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır
-- ekran görüntüleri :![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/c6b07796-6049-4312-92d5-179e49bc29a7)
-- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/2d3cc53f-0963-4993-999c-ace85dc2c60f)
-- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/05bbf569-016c-462f-8037-f06825bfdca4)
-- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/74b1a861-071a-4bc6-ba88-8ed305647e0e)
+- ekran görüntüleri :![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30)
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/fb29e23b-dfcd-48b2-bb4f-e6d63d3b62b8)
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/17576e3a-a1b6-466f-9acc-2d02e56a09c0)
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/a80ae811-c363-4a6e-b7cd-190f03e856a3)
+
+
+
+
 
 
 
