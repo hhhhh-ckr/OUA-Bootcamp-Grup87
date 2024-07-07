@@ -58,13 +58,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board ekran görüntüleri:
 
-<img title="Sprint1" alt="Trello tablosu - 1" src="../Assets/Images/Trello Tablosu Sprint1 - 1.png?raw=true" width="100%"/>
-<img title="Sprint1" alt="Trello tablosu - 2" src="../Assets/Images/Trello Tablosu Sprint1 - 2.png?raw=true" width="100%"/>
+![Trello tablosu - 1](readme/Trello%20Tablosu%20Sprint1%20-%201.png)
+![Trello tablosu - 2](readme/Trello%20Tablosu%20Sprint%201%20-%202.png)
 
 - **Ürün Durumu:**
 
-<img title="Sprint1" alt="Başlangıç Ekranı Taslak" src="../Assets/Images/[Taslak] Cosmic Rush Başlangıç Ekranı Tasarımı.gif?raw=true" width="49%"/>
-<img title="Sprint1" alt="Başlangıç Ekranı Final" src="../Assets/Images/[Final] Cosmic Rush Başlangıç Ekranı Tasarımı.gif?raw=true" width="49%"/>
+![](readme/[Taslak]%20Cosmic%20Rush%20Başlangıç%20Ekranı%20Tasarımı.mp4)
+![](readme/[Final]%20Cosmic%20Rush%20Başlangıç%20Ekranı%20Tasarımı.mp4)
 
 - **Sprint Review:**
 
