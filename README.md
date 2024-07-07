@@ -1,45 +1,36 @@
 # **Takım İsmi**
-
-Takım X
+Time Guards
 
 # Ürün İle İlgili Bilgiler
 PC,Mac
-## Takım Elemanları
 
+## Takım Elemanları
 - Gülsüm Kırvar: Product Owner
 - Gülsüm Kırvar: Scrum Master
 - Hazar Çakan: Team Member/Developer
 - Gülizar Rabia Çakan:Developer
 - Gamze Nur Erdem:Developer
-  
 
 ## Ürün İsmi
-
 Cosmic Rush
 
 ## Ürün Açıklaması
-
 - Uzayın derinliklerinde heyecan verici bir maceraya atılmanızı sağlayan,keşif ve strateji odaklı bir 3D oyunudur. oyuncular,yüksek teknolojiye sahip bir uzay gemisini kontrol ederek,keşfedilmemiş gezegenlerde kaynaklar toplar ve insanlığın hayatta kalması için hayati önem taşıyanmalzemeleri geri getirir.
 
 ## Ürün Özellikleri
-
 - Gezegen keşfi
 - Stratejik Kaynak Yönetimi
 - Gerçekçi Uzay Gemisi Kontrolleri
 - insanlığın Geleceğine Katkıda Bulunur
 
 ## Hedef Kitle
-
 - 10-35 yaş arası kullanıcılar
 - Bilim Kurgu Temasına ilgi duyanlar
 - Gamer Komüniteleri ve Forumlar
 - Kapsayıcı oyun deneyimi arayanlar
-  
 
 ## Product Backlog URL
-
-
-
+[Trello](https://trello.com/b/9zvnilY9/cosmic-rush-from-time-guards)
 
 ---
 
@@ -51,28 +42,31 @@ Cosmic Rush
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+- **Sprint board update**: Sprint board screenshotları:
+<img title="Sprint1" alt="Trello tablosu - 1" src="../Assets/Images/Trello Tablosu Sprint1 - 1.png?raw=true" width="100%"/>
+<img title="Sprint1" alt="Trello tablosu - 2" src="../Assets/Images/Trello Tablosu Sprint1 - 2.png?raw=true" width="100%"/>
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+<video width="50%" controls>
+  <source src="../Assets/Videos/[Taslak] Cosmic Rush Başlangıç Ekranı Tasarımı.mp4" type="video/mp4">
+</video>
+<video width="50%" controls>
+  <source src="../Assets/Videos/[Final] Cosmic Rush Başlangıç Ekranı Tasarımı.mp4" type="video/mp4">
+</video>
 
-- **Sprint Review**: 
+- **Sprint Review**:
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Unit test'ler için ayrılan efor/saat arttırılmalı
 
 -**Diğer Notlar**:
 - N/A
