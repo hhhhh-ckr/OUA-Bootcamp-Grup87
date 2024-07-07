@@ -63,9 +63,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu:**
 
-https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/f9800ea0-f4f7-4770-be2d-6a1274ac307a
+https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/f9800ea0-f4f7-4770-be2d-6a1274ac307a.mp4
 <br/>
-https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/2b5c4c2f-f791-4625-a736-6c1d24106842
+https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/2b5c4c2f-f791-4625-a736-6c1d24106842.mp4
 
 - **Sprint Review:**
 
