@@ -63,8 +63,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu:**
 
-  <video src="../Assets/Videos/[Taslak] Cosmic Rush Başlangıç Ekranı Tasarımı.mp4" width="100%" controls></video>
-  <video src="../Assets/Videos/[Final] Cosmic Rush Başlangıç Ekranı Tasarımı.mp4" width="100%" controls></video>
+https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/f9800ea0-f4f7-4770-be2d-6a1274ac307a
+https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/2b5c4c2f-f791-4625-a736-6c1d24106842
 
 - **Sprint Review:**
 
