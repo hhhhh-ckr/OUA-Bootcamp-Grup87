@@ -1,4 +1,7 @@
+<!---
 ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/4cc47db9-c141-4031-b6dd-1885263c2ce9)
+--->
+![logo](readme/Cosmic-Rush-Logo.png)
 
  **Takım İsmi**
 
@@ -12,9 +15,9 @@ PC,Mac
 
 - Gülsüm Kırvar: Product Owner
 - Gülsüm Kırvar: Scrum Master
-- Hazar Çakan: Team Member/Developer
-- Gülizar Rabia Çakan:Developer
-- Gamze Nur Erdem:Developer
+- Hazar Çakan: Developer
+- Gülizar Rabia Çakan: Developer
+- Gamze Nur Erdem: Developer
 
 ## Ürün İsmi
 
@@ -56,19 +59,12 @@ Cosmic Rush
 oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bir şekilde belirtilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır
-- ekran görüntüleri :![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30)
+
+- ekran görüntüleri:
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30)
 - ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/fb29e23b-dfcd-48b2-bb4f-e6d63d3b62b8)
 - ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/17576e3a-a1b6-466f-9acc-2d02e56a09c0)
 - ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/a80ae811-c363-4a6e-b7cd-190f03e856a3)
-
-
-
-
-
-
-
-
-
 
 - **Sprint board update**: Sprint board ekran görüntüleri:
 
