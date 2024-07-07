@@ -1,3 +1,5 @@
+
+![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/1af59555-59f4-4c7e-a93c-77cfbba1161f)
 # **Takım İsmi**
 
 Time Guards
@@ -54,7 +56,14 @@ Cosmic Rush
 oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bir şekilde belirtilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır
-- ekran görüntüleri word dosyası: https://1drv.ms/w/s!AjrCnSnZF6iRk0qwoaVK2SmsPm-u 
+- ekran görüntüleri :![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/c6b07796-6049-4312-92d5-179e49bc29a7)
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/2d3cc53f-0963-4993-999c-ace85dc2c60f)
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/05bbf569-016c-462f-8037-f06825bfdca4)
+- ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/74b1a861-071a-4bc6-ba88-8ed305647e0e)
+
+
+
+
 
 
 - **Sprint board update**: Sprint board ekran görüntüleri:
@@ -74,7 +83,11 @@ Alınan kararlar: Oyunun üretiminin planlı ilerlemesi için ekip üyelerinin h
 
 - **Sprint Retrospective:**
 
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştıTakım, uzay gemisi kontrol mekaniklerinin başarılı bir şekilde tamamlandığını ve gezegen tasarımlarının beklentileri karşıladığını belirtti.
+  - Takım, uzay gemisi kontrol mekaniklerinin başarılı bir şekilde tamamlandığını ve gezegen tasarımlarının beklentileri karşıladığını belirtti.İletişim ve iş birliği yüksek seviyedeydi.
+  - Uzay gemisi kontrol mekaniklerinin daha iyi test edilmesi gerektiği önerildi.
+  - Gezegen tasarımlarının daha detaylı yapılması gerektiği belirtildi.Gelecek sprintte daha sıkı test süreçleri uygulanacak.
+  - Gezegen tasarımlarına daha fazla zaman ayrılacak.
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı
 
