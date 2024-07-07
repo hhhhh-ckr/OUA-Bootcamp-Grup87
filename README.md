@@ -1,6 +1,6 @@
 
-![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/1af59555-59f4-4c7e-a93c-77cfbba1161f)
-# **Takım İsmi**
+#![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/c4fc7ad9-855c-43ac-8334-bf1bc6e1e7e5)
+ **Takım İsmi**
 
 Time Guards
 
