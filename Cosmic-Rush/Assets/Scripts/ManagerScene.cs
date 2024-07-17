@@ -6,9 +6,9 @@ using UnityEngine.SceneManagement;
 public class ManagerScene : MonoBehaviour
 {
     //Sahne yükleme
-    public void StartButton()
+    public void LoadScene(int sceneNumber)
     {
-        SceneManager.LoadSceneAsync(1);
+        SceneManager.LoadSceneAsync(sceneNumber);
     }
 
     //Oyundan çýkma
