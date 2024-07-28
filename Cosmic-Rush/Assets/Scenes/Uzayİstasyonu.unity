@@ -1752,6 +1752,7 @@ GameObject:
   - component: {fileID: 621177014}
   - component: {fileID: 621177013}
   - component: {fileID: 621177012}
+  - component: {fileID: 621177015}
   m_Layer: 5
   m_Name: Planet4
   m_TagString: Untagged
@@ -1874,6 +1875,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 621177009}
   m_CullTransparentMesh: 1
+--- !u!95 &621177015
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621177009}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f805bd4b45ca2524b965ce2e84db6116, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &630569193
 GameObject:
   m_ObjectHideFlags: 0
@@ -2667,6 +2689,7 @@ GameObject:
   - component: {fileID: 797905883}
   - component: {fileID: 797905882}
   - component: {fileID: 797905881}
+  - component: {fileID: 797905884}
   m_Layer: 5
   m_Name: Planet5
   m_TagString: Untagged
@@ -2789,6 +2812,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 797905878}
   m_CullTransparentMesh: 1
+--- !u!95 &797905884
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797905878}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 74c9258764b73ef40a36582d9f5c9b7a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &803853131
 GameObject:
   m_ObjectHideFlags: 0
@@ -3033,6 +3077,7 @@ GameObject:
   - component: {fileID: 892794561}
   - component: {fileID: 892794560}
   - component: {fileID: 892794559}
+  - component: {fileID: 892794562}
   m_Layer: 5
   m_Name: Planet6
   m_TagString: Untagged
@@ -3155,6 +3200,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 892794556}
   m_CullTransparentMesh: 1
+--- !u!95 &892794562
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892794556}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b07c7b4982d3a4a49a455bc7844609df, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &911397524
 GameObject:
   m_ObjectHideFlags: 0
@@ -4483,6 +4549,7 @@ GameObject:
   - component: {fileID: 1323714337}
   - component: {fileID: 1323714336}
   - component: {fileID: 1323714335}
+  - component: {fileID: 1323714338}
   m_Layer: 5
   m_Name: Planet7
   m_TagString: Untagged
@@ -4605,6 +4672,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1323714332}
   m_CullTransparentMesh: 1
+--- !u!95 &1323714338
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323714332}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3ea66e56ce681344bbbe0006be0bc80f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1336452459
 GameObject:
   m_ObjectHideFlags: 0
@@ -4617,6 +4705,7 @@ GameObject:
   - component: {fileID: 1336452464}
   - component: {fileID: 1336452463}
   - component: {fileID: 1336452462}
+  - component: {fileID: 1336452465}
   m_Layer: 5
   m_Name: Planet8
   m_TagString: Untagged
@@ -4739,6 +4828,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1336452459}
   m_CullTransparentMesh: 1
+--- !u!95 &1336452465
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336452459}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4f92b0d133d03054988cb94c7b424e18, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1362896083
 GameObject:
   m_ObjectHideFlags: 0
