@@ -25,13 +25,12 @@ Cosmic Rush
 
 ## Ürün Açıklaması
 
-- Uzayın derinliklerinde heyecan verici bir maceraya atılmanızı sağlayan,keşif ve strateji odaklı bir 3D oyunudur. oyuncular,yüksek teknolojiye sahip bir uzay gemisini kontrol ederek,keşfedilmemiş gezegenlerde kaynaklar toplar ve insanlığın hayatta kalması için hayati önem taşıyanmalzemeleri geri getirir.
+- Uzayın derinliklerinde heyecan verici bir maceraya atılmanızı sağlayan,keşif ve strateji odaklı bir 2D oyunudur. oyuncular,yüksek teknolojiye sahip bir uzay gemisini kontrol ederek,keşfedilmemiş gezegenlerde kaynaklar toplar ve insanlığın hayatta kalması için hayati önem taşıyanmalzemeleri geri getirir.
 
 ## Ürün Özellikleri
 
 - Gezegen keşfi
 - Stratejik Kaynak Yönetimi
-- Gerçekçi Uzay Gemisi Kontrolleri
 - insanlığın Geleceğine Katkıda Bulunur
 
 ## Hedef Kitle
@@ -49,7 +48,7 @@ Cosmic Rush
 
 # Sprint 1
 
-- **Sprint Notları**: Oyunun içeriği trello tablosu ile product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında oyunun detayları okunabilir.
+- **Sprint Notları**: Oyunun içeriği trello tablosu ile product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında oyunun detayları okunabilir. 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
 
@@ -168,4 +167,51 @@ Yenilenmiş Hali | Bazı Assetler
 
 # Sprint 3
 
----
+- **Sprint Notları**: Bu planlar takip edilerek, Cosmic-Rush oyununun son sprintinde tüm hedeflerin başarıyla tamamlanması ve oyunun yayınlanmaya hazır hale getirildi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
+
+- **Puan tamamlama mantığı**: Trello tablosunda tamamlanan her görev için 2 puan geçerli olacaktır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 10 ile devam etmesi gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği aşağıda ekran görüntüsü olarak paylaşılmaktadır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bir şekilde belirtilmiştir.
+
+- **Ürün Durumu:**
+
+Yenilenmiş Hali | Bazı Assetler
+
+
+- **Sprint Review:**
+  **Tarih: 02.08.2024
+  **Katılımcıları: Gülsüm Kırvar, Gülizar Rabia Çakan, Gamze Nur Erdem ve Hazar Çakar
+  **Amacı: Sprint boyunca tamamlanan işlerin gözden geçirilmesi,demo yapılması ve geri bildirim toplanması
+
+- **Sprint Retrospective:** Sprint boyunca neyin iyi gittiğini, neyin geliştirilebileceğini ve gelecekteki projelerde neleri iyileştirebileceğimizi tartışmak.
+
+  - **Neler İyi Gitti?**
+    - **Kod Yazımı**: Oyun mekanik kod yazımına başarılı bir şekilde tamamlandı ve hatalı kodlar üzerinde düzeltmeler yapıldı. Bu süreçte takımın koordinasyonu ve işbirliği oldukça iyiydi.
+
+    - **Gezegen Tasarımları**: Gezegen tasarımı başarıyla tamamlandı ve kullanılacak araçlar bulundu. Tasarımlar, oyunun mekanik değişikliklerine uyumlu hale getirildi.
+
+    - **İş Bölümü**: Grup içinde iş bölümü etkili bir şekilde yapıldı.Oy birliği ile 3 gezegen tasarımına karar kılındı ve başarıyla görev yerine getirildi. İşlerin daha verimli ilerlemesini sağladı.
+
+  - **Neler İyi Gitmedi**:
+
+    - **Kod Yazımı**: Bazı hataların düzeltilmesi beklenenden uzun sürdü, bu da zaman planlamasında aksamalara yol açtı.
+
+    - **Harita Çalışmaları**: Harita üzerinde yapılan çalışmalar istenilen hızda ilerlemedi ve bu da projenin 2D olarak yapılmasına olanak sağladı.
+    
+      **Teknik Görevler**
+      Kod Refaktörizasyonu ve Temizliği: Eski kodların gözden geçirilmesi ve optimize edilmesi.
+      Performans İyileştirmeleri:Oyunun performansını arttırmak için optimizasyonlar.
+      Hata Düzeltmeleri: Önceki sprintlerde tespit edilen hataların düzeltilmesi.
+
+- **Test Planı**:
+  - **Unit Testleri**:Gezegenler arası seyehat ve kaynak toplama sistemleri için birim testleri oluşturma.
+
+  - **Kullanıcı Kabul Testleri**: Oyuncu etkileşimleri ve UI'nın oyuncular tarafından test edilmesi.
+
+  - **Performans Testleri**: Oyun performansının farklı cihazlarda test edilmesi.
+
