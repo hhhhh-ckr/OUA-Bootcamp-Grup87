@@ -9,7 +9,7 @@ Time Guards
 
 # Ürün İle İlgili Bilgiler
 
-PC, Windows, Time Trial, Speed Run
+Speedrun, Pixel, Platformer, [(WebGL) üzerinden oynayabilirsiniz](https://play.unity.com/en/games/192fbe56-6826-4dff-ada9-d010c83667a0/cosmic-rush)
 
 ## Takım Elemanları
 
@@ -25,20 +25,22 @@ Cosmic Rush
 
 ## Ürün Açıklaması
 
-- Uzayın derinliklerinde heyecan verici bir maceraya atılmanızı sağlayan,keşif ve strateji odaklı bir 2D oyunudur. oyuncular,yüksek teknolojiye sahip bir uzay gemisini kontrol ederek,keşfedilmemiş gezegenlerde kaynaklar toplar ve insanlığın hayatta kalması için hayati önem taşıyanmalzemeleri geri getirir.
+- Uzay gemisinde oturmaktan sıkılmış 3 uzaylı arkadaş, o sırada yanından geçtikleri gezegenleri keşfetmek için birbirleri arasında, kimin daha hızlı keşfedeceği üzerine iddiaya girerler. Her gezegenin kendi atmosferine göre (oyuncu kontrol) zorluğu vardır. Bakalım sen ne kadar sürede hepsini keşfedebileceksin?
 
 ## Ürün Özellikleri
 
-- Gezegen keşfi
-- Stratejik Kaynak Yönetimi
-- insanlığın Geleceğine Katkıda Bulunur
+- Pixel
+- Platformer
+- Speedrun
+- 3 Farklı gezegen bölümü
+- Her gezegene özel oyuncu kontrol zorluğu
 
 ## Hedef Kitle
 
 - 10-35 yaş arası kullanıcılar
 - Bilim Kurgu Temasına ilgi duyanlar
 - Gamer Komüniteleri ve Forumlar
-- Kapsayıcı oyun deneyimi arayanlar
+- Speedrun severler
 
 ## Product Backlog URL
 
@@ -48,7 +50,7 @@ Cosmic Rush
 
 # Sprint 1
 
-- **Sprint Notları**: Oyunun içeriği trello tablosu ile product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında oyunun detayları okunabilir. 
+- **Sprint Notları**: Oyunun içeriği trello tablosu ile product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında oyunun detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
 
@@ -70,8 +72,8 @@ Cosmic Rush
   - <details>
     <summary><strong>📸 Sprint Board ekran görüntüleri için tıkla!</strong></summary>
 
-    ![Trello tablosu - 1](readme/S1%20Trello%20Tablosu%201.png)
-    ![Trello tablosu - 2](readme/S1%20Trello%20Tablosu%202.png)
+    ![Sprint1 Trello tablosu - 1](readme/S1%20Trello%20Tablosu%201.png)
+    ![Sprint1 Trello tablosu - 2](readme/S1%20Trello%20Tablosu%202.png)
 </details>
 
 - **Ürün Durumu:**
@@ -119,7 +121,7 @@ oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bi
   - <details>
     <summary><strong>📸 Sprint Board ekran görüntüleri için tıkla!</strong></summary>
 
-    ![Trello tablosu - 1](readme/S2%20Trello%20Tablosu%201.png)
+    ![Sprint2 Trello tablosu - 1](readme/S2%20Trello%20Tablosu%201.png)
 </details>
 
 - **Ürün Durumu:**
@@ -175,43 +177,53 @@ Yenilenmiş Hali | Bazı Assetler
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği aşağıda ekran görüntüsü olarak paylaşılmaktadır.
 
+  - <details>
+    <summary><strong>📸 Daily Scrum ekran görüntüleri için tıkla!</strong></summary>
+
+    <img src="readme/S3 Daily Scrum 1.png">
+  </details>
+
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bir şekilde belirtilmiştir.
 
+  - <details>
+    <summary><strong>📸 Sprint Board ekran görüntüleri için tıkla!</strong></summary>
+
+    ![Sprint3 Trello tablosu - 1](readme/S3%20Trello%20Tablosu%201.png)
+</details>
+
 - **Ürün Durumu:**
 
-Yenilenmiş Hali | Bazı Assetler
-
+Gezegen Tasarımları | Bölüm Tasarımları
+:-: | :-:
+<img src="readme/1621792592.gif" height="150px"></br><img src="readme/2011727577.gif" height="150px"></br><img src="readme/3854352658.gif" height="150px"> | <img src="readme/1621792592.png" height="150px"></br><img src="readme/2011727577.png" height="150px"></br><img src="readme/3854352658.png" height="150px">
+Oynanış videosu | Oyun bitiş sahnesi
+<a href="https://www.youtube.com/watch?v=d_fuz9SnKg8"><img src="https://img.youtube.com/vi/d_fuz9SnKg8/0.jpg" height="200px"></a> | <img src="readme/EndScreen.png" height="175px">
 
 - **Sprint Review:**
-  **Tarih: 02.08.2024
-  **Katılımcıları: Gülsüm Kırvar, Gülizar Rabia Çakan, Gamze Nur Erdem ve Hazar Çakar
-  **Amacı: Sprint boyunca tamamlanan işlerin gözden geçirilmesi,demo yapılması ve geri bildirim toplanması
+
+  - **Yapılan Genel Olaylar**: Sprint boyunca tamamlanan işlerin gözden geçirilmesi, demo yapılması ve geri bildirim toplanıp Build alınması
+
+  - **Sprint Review katılımcıları**: Gülsüm Kırvar, Gülizar Rabia Çakan, Gamze Nur Erdem ve Hazar Çakar
 
 - **Sprint Retrospective:** Sprint boyunca neyin iyi gittiğini, neyin geliştirilebileceğini ve gelecekteki projelerde neleri iyileştirebileceğimizi tartışmak.
 
   - **Neler İyi Gitti?**
-    - **Kod Yazımı**: Oyun mekanik kod yazımına başarılı bir şekilde tamamlandı ve hatalı kodlar üzerinde düzeltmeler yapıldı. Bu süreçte takımın koordinasyonu ve işbirliği oldukça iyiydi.
+    - **Kod Yazımı**: Oyuncu kontrol kodu vb. kodlar tamamlandı. Bu süreçte takımın koordinasyonu ve işbirliği yeterince iyiydi.
 
-    - **Gezegen Tasarımları**: Gezegen tasarımı başarıyla tamamlandı ve kullanılacak araçlar bulundu. Tasarımlar, oyunun mekanik değişikliklerine uyumlu hale getirildi.
+    - **İş Bölümü**: Grup içinde iş bölümü etkili bir şekilde yapıldı. Oy birliği ile 8 gezegen sayısı düşürülüp, 3 gezegen tasarımına karar kılındı ve başarıyla görev yerine getirildi. İşlerin daha verimli ilerlemesini sağladı.
 
-    - **İş Bölümü**: Grup içinde iş bölümü etkili bir şekilde yapıldı.Oy birliği ile 3 gezegen tasarımına karar kılındı ve başarıyla görev yerine getirildi. İşlerin daha verimli ilerlemesini sağladı.
+    - **Gezegen Tasarımları**: Gezegen tasarımları 3D yerine 2D yapılmasına karar verildiği için TileMap kullanarak Gezegen bölümleri tasarlandı.
 
   - **Neler İyi Gitmedi**:
 
-    - **Kod Yazımı**: Bazı hataların düzeltilmesi beklenenden uzun sürdü, bu da zaman planlamasında aksamalara yol açtı.
+    - **Kod Yazımı**: Oyunu bir kere bitirdikten sonra süre sayacının durmama sorunu giderilmeye çalışıldı ama başarısız olundu.
 
-    - **Harita Çalışmaları**: Harita üzerinde yapılan çalışmalar istenilen hızda ilerlemedi ve bu da projenin 2D olarak yapılmasına olanak sağladı.
-    
-      **Teknik Görevler**
-      Kod Refaktörizasyonu ve Temizliği: Eski kodların gözden geçirilmesi ve optimize edilmesi.
-      Performans İyileştirmeleri:Oyunun performansını arttırmak için optimizasyonlar.
-      Hata Düzeltmeleri: Önceki sprintlerde tespit edilen hataların düzeltilmesi.
+    - **Harita Çalışmaları**: Harita üzerinde yapılan çalışmalar istenilen hızda ilerlemedi ve bu da projenin 2D olarak yapılmasına olanak sağladı. Ayrıca TileMap kullanıldığı için render konusunda bozukluklar giderilmeye çalışıldı ama sorun çözülemedi.
 
 - **Test Planı**:
-  - **Unit Testleri**:Gezegenler arası seyehat ve kaynak toplama sistemleri için birim testleri oluşturma.
+  - **Unit Testleri**: Gezegenler arası geçiş ve oyun sonu süre hesaplama testleri oluşturma.
 
   - **Kullanıcı Kabul Testleri**: Oyuncu etkileşimleri ve UI'nın oyuncular tarafından test edilmesi.
 
   - **Performans Testleri**: Oyun performansının farklı cihazlarda test edilmesi.
-
